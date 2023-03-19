@@ -13,9 +13,9 @@
 - ⚡ Fun fact **Currently losing control over my life**
 
 - ⚡ not very active on github and unknowncheats, Due To Real Life Studying
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact info:</h3>
 <p align="left">
-<a href="https://twitter.com/eintim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eintim23" height="30" width="40" /></a>
+<a href="https://dsc.gg/l7neg-" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
