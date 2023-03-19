@@ -15,8 +15,17 @@
 - ⚡ not very active on github and unknowncheats, Due To Real Life Studying
 <h3 align="left">Contact info:</h3>
 <p align="left">
-<a href="https://dsc.gg/l7neg-" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
+<a href="https://discord.com/users/669453086418534400" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
 <a href="https://www.unknowncheats.me/forum/members/4824332.html" target="blank"><img align="center" src="https://l7neg.tk/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://t.me/L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://steamcommunity.com/profiles/76561199005257177" target="blank"><img align="center" src="https://l7neg.tk/img/steam.png" alt="l7neg" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Servers & Channels info:</h3>
+<p align="left">
+ <a href="https://dsc.gg/l7neg-" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://t.me/YPFFFF" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/@L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/youtube.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
