@@ -21,6 +21,13 @@
  <a href="https://steamcommunity.com/profiles/76561199005257177" target="blank"><img align="center" src="https://l7neg.tk/img/steam.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
+### Social Contacts:
+
+</h5>
+<a href="https://discord.com/users/669453086418534400">
+<img src="https://lanyard-profile-readme.vercel.app/api/669453086418534400?animated=true" height=175px/>
+</a>  
+
 <h3 align="left">Servers & Channels info:</h3>
 <p align="left">
  <a href="https://dsc.gg/l7neg-" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
