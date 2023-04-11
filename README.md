@@ -21,7 +21,7 @@
  <a href="https://steamcommunity.com/profiles/76561199005257177" target="blank"><img align="center" src="https://l7neg.tk/img/steam.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
-### Social Contacts:
+### Official Discord Account Preview:
 
 </h5>
 <a href="https://discord.com/users/669453086418534400">
