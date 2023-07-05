@@ -30,7 +30,7 @@
 
 <h3 align="left">Servers & Channels info:</h3>
 <p align="left">
- <a href="https://dsc.gg/l7neg-" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://sub.l7neg.tk/discord" target="blank"><img align="center" src="https://l7neg.tk/img/discord.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://t.me/YPFFFF" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://www.youtube.com/channel/@L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/youtube.png" alt="l7neg" height="30" width="40" /></a>
 </p>
