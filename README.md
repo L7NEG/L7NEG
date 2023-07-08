@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **Currently losing control over my life**
 
-- ⚡ not very active on github and unknowncheats, Due To Real Life Studying
 <h3 align="left">Contact info:</h3>
 <p align="left">
 <a href="https://discord.com/users/669453086418534400" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
