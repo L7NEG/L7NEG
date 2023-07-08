@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Mod Menus Making**
 
-- 📫 Contact me on discord **L7NEG#0743**
+- 📫 Contact me on discord **@l7neg**
 
 - ⚡ Fun fact **Currently losing control over my life**
 
