@@ -40,11 +40,3 @@
 <img align="center" src="https://l7negstats.vercel.app/api/top-langs?username=l7neg&show_icons=true&locale=en&layout=compact" alt="l7neg" /></p>
 
 ![L7NEG's GitHub stats](https://l7negstats.vercel.app/api?username=l7neg&show_icons=true&theme=transparent)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L7NEG/L7NEG/output/github-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L7NEG/L7NEG/output/github-snake-dark.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/L7NEG/L7NEG/output/github-snake.svg">
-  </picture>
-</p>
