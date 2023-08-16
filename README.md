@@ -18,14 +18,7 @@
 <a href="https://www.unknowncheats.me/forum/members/4824332.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://t.me/L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://steamcommunity.com/profiles/76561199005257177" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/steam.png" alt="l7neg" height="30" width="40" /></a>
-</p>
-
-### Main Discord Account Preview:
-
-</h5>
-<a href="https://discord.com/users/669453086418534400">
-<img src="https://lanyard-profile-readme.vercel.app/api/669453086418534400?animated=true" height=175px/>
-</a>  
+</p>  
 
 <h3 align="left">Servers & Channels info:</h3>
 <p align="left">
