@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **Currently losing control over my life**
 
+![My Discord](https://discord-rpc-readme.vercel.app/api?id=669453086418534400)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Cool Private Bios (Dm Me On Discord To Get Them For Free)
 https://bio.l7neg.tk
