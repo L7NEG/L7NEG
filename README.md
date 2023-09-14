@@ -13,7 +13,7 @@
 - ⚡ Fun fact **Currently losing control over my life**
 
 ## Discord Account Preview
-![My Discord](https://discord-rpc-readme.vercel.app/api?id=669453086418534400)
+[![My Discord](https://discord-rpc-readme.vercel.app/api?id=669453086418534400)](https://discord.com/users/669453086418534400)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Cool Private Bios (Dm Me On Discord To Get Them For Free)
