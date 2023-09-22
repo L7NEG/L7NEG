@@ -19,6 +19,8 @@
 ## Lanyard Self Hosted Version (Join My Discord Server To Use It)
 [![Discord Presence](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400)
 
+Using https://rpcrm.l7neg.tk
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Cool Private Bios (Dm Me On Discord To Get Them For Free)
 [https://bio.l7neg.tk](https://bio.l7neg.tk)
