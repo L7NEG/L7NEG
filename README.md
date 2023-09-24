@@ -51,3 +51,5 @@
 <img align="center" src="https://l7negstats.vercel.app/api/top-langs?username=l7neg&show_icons=true&locale=en&layout=compact&theme=transparent" alt="l7neg" /></p>
 
 ![L7NEG's GitHub stats](https://l7negstats.vercel.app/api?username=l7neg&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://ghrmss.vercel.app?user=L7NEG&theme=github-dark-blue)
