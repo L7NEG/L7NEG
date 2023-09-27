@@ -11,7 +11,7 @@
 
 - 📫 Contact me on discord **@l7neg**
 
-- ⚡ Fun fact **Currently losing control over my life**
+- ⚡ Fun fact **Currently taking control over my life**
 
 ## Discord Account Preview
 [![My Discord](https://discord-rpc-readme.vercel.app/api?id=669453086418534400)](https://discord.com/users/669453086418534400)
@@ -20,12 +20,8 @@
 [![Discord Presence](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400)
 
 ## Using https://rpcrm.l7neg.tk
-
 ------------------------------------------------------------------------------------------------------------------------------------------
-## Cool Private Bios (Dm Me On Discord To Get Them For Free)
-[https://bio.l7neg.tk](https://bio.l7neg.tk)
-------------------------------------------------------------------------------------------------------------------------------------------
-## Cool Bios Using Bio Hosting System Free For Use
+## Cool Bio Services I Use
 [https://guns.lol/l7neg](https://guns.lol/l7neg)
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
