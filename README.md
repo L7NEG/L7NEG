@@ -13,15 +13,15 @@
 
 - ⚡ Fun fact **Currently taking control over my life**
 
-## Discord Account Preview
+# Discord Account Preview
 [![My Discord](https://discord-rpc-readme.vercel.app/api?id=669453086418534400)](https://discord.com/users/669453086418534400)
 
-## Lanyard Self Hosted Version (Join My Discord Server To Use It)
+# Lanyard Self Hosted Version (Join My Discord Server To Use It)
 [![Discord Presence](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400)
 
-## Using https://rpcrm.l7neg.tk
+# Using https://rpcrm.l7neg.tk
 ------------------------------------------------------------------------------------------------------------------------------------------
-## Cool Bio Services I Use
+# Cool Bio Services I Use
 [https://guns.lol/l7neg](https://guns.lol/l7neg)
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
