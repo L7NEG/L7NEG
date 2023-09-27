@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Currently taking control over my life**
 
-# Lanyard Self Hosted Version (Join My Discord Server To Use It)
+# Lanyard Self Hosted Version
 [![L7NEG](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400)
 
 # Using https://rpcrm.l7neg.tk
