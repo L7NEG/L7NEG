@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l7neg&label=Profile%20views&color=0e75b6&style=flat" alt="l7neg" /> </p>
 
-[![Discord Server](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://sub.l7neg.tk/discord){:target="_blank"}
+[![Discord Server](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://sub.l7neg.tk/discord)
 
-- 🔭 I’m Dev Of Ultimate Menu Script For Kiddions Modest Menu [Ultimate Menu](https://www.unknowncheats.me/forum/grand-theft-auto-v/565688-1-64-ultimate-unlocker.html){:target="_blank"}
+- 🔭 I’m Dev Of Ultimate Menu Script For Kiddions Modest Menu [Ultimate Menu](https://www.unknowncheats.me/forum/grand-theft-auto-v/565688-1-64-ultimate-unlocker.html)
 
 - 🌱 I’m currently learning **Mod Menus Making**
 
@@ -14,12 +14,12 @@
 - ⚡ Fun fact **Currently taking control over my life**
 
 # Lanyard Self Hosted Version
-[![L7NEG](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400){:target="_blank"}
+[![L7NEG](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400)
 
 # Using https://rpcrm.l7neg.tk
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Cool Bio Services I Use
-[https://guns.lol/l7neg](https://guns.lol/l7neg){:target="_blank"}
+[https://guns.lol/l7neg](https://guns.lol/l7neg)
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,4 +46,3 @@
 ![L7NEG's GitHub stats](https://l7negstats.vercel.app/api?username=l7neg&show_icons=true&theme=transparent)
 
 ![GitHub Streak](https://ghrmss.vercel.app?user=L7NEG&theme=github-dark-blue)
-
