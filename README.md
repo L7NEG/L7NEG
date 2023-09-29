@@ -14,7 +14,11 @@
 - ⚡ Fun fact **Currently taking control over my life**
 
 # Lanyard Self Hosted Version
-[![L7NEG](https://rpcrm.l7neg.tk/api/669453086418534400)](https://discord.com/users/669453086418534400)
+
+<div align="center">
+ <a href="https://discord.com/users/669453086418534400" target="_blank" rel="nofollow">
+			<img src="https://rpcrm.l7neg.tk/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence" align="center">
+   </div>
 
 # Using https://rpcrm.l7neg.tk
 ------------------------------------------------------------------------------------------------------------------------------------------
