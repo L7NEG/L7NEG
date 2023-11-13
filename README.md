@@ -1,5 +1,5 @@
-<h1 align="center">L7NEG</h1>
-<h3 align="center">Self Taught Dev From Egypt</h3>
+<h1  align="center"> <img src="https://ghrmt.vercel.app?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=L7NEG" alt="ReadMe Typing Vercel Version By L7NEG" /> </h1>
+<h3  align="center"> <img src="https://ghrmt.vercel.app?font=Fira+Code&size=28&pause=1000&center=true&random=false&width=435&lines=Self+Taught+Dev+From+Egypt" alt="ReadMe Typing Vercel Version By L7NEG" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l7neg&label=Profile%20views&color=0e75b6&style=flat" alt="l7neg" /> </p>
 
@@ -17,8 +17,8 @@
 
 <div align="center">
  <a href="https://discord.com/users/669453086418534400" target="_blank" rel="nofollow">
-			<img src="https://rpcrm.l7neg.tk/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence" align="center">
-   </div>
+ <img src="https://rpcrm.l7neg.tk/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence" align="center">
+</div>
 
 # Using https://rpcrm.l7neg.tk
 ------------------------------------------------------------------------------------------------------------------------------------------
