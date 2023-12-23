@@ -12,6 +12,13 @@
 
 - ⚡ Fun fact **Currently taking control over my life**
 
+# Lanyard Card Using Vercel & Hop.io
+
+<div align="center">
+ <a href="https://rpcrm.vercel.app" target="_blank" rel="nofollow">
+			<img src="https://rpcrm.vercel.app/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence" align="center">
+ </div>
+  
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Cool Bio Services I Use
 [https://guns.lol/l7neg](https://guns.lol/l7neg)
