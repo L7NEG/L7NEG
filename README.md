@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://discord.com/users/669453086418534400" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
 <a href="https://www.unknowncheats.me/forum/members/4824332.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
- <a href="https://t.me/L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="L7NEG" height="30" width="40" /></a>
+ <a href="https://t.me/L7NEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/telegram.png" alt="L7NEG" height="30" width="40" /></a>
  <a href="https://steamcommunity.com/id/L7NEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/steam.png" alt="L7NEG" height="30" width="40" /></a>
 </p>  
 
