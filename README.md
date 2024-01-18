@@ -12,11 +12,11 @@
 
 - ⚡ Fun fact **Currently taking control over my life**
 
-# Lanyard Card Using Vercel & Hop.io
+# Discord Card
 
 <div align="center">
  <a href="https://rpcrm.vercel.app" target="_blank" rel="nofollow">
-			<img src="https://rpcrm.vercel.app/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence" align="center">
+    <img src="https://rpcrm.vercel.app/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence Card" align="center">
  </div>
   
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -29,15 +29,13 @@
 <p align="left">
 <a href="https://discord.com/users/669453086418534400" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
 <a href="https://www.unknowncheats.me/forum/members/4824332.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
- <a href="https://t.me/L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="l7neg" height="30" width="40" /></a>
- <a href="https://steamcommunity.com/profiles/76561199005257177" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/steam.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://t.me/L7NEG" target="blank"><img align="center" src="https://l7neg.tk/img/telegram.png" alt="L7NEG" height="30" width="40" /></a>
+ <a href="https://steamcommunity.com/id/L7NEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/steam.png" alt="L7NEG" height="30" width="40" /></a>
 </p>  
 
-<h3 align="left">Servers & Channels info:</h3>
+<h3 align="left">Discord Server</h3>
 <p align="left">
- <a href="https://sub.l7neg.tk/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
- <a href="https://t.me/YPFFFF" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/telegram.png" alt="l7neg" height="30" width="40" /></a>
- <a href="https://www.youtube.com/channel/@L7NEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/youtube.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://l7neg.is-a.dev/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
