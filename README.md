@@ -18,11 +18,7 @@
  <a href="https://rpcrm.vercel.app" target="_blank" rel="nofollow">
     <img src="https://rpcrm.vercel.app/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence Card" align="center">
  </div>
-  
-------------------------------------------------------------------------------------------------------------------------------------------
-# Cool Bio Services I Use
-[https://guns.lol/l7neg](https://guns.lol/l7neg)
-------------------------------------------------------------------------------------------------------------------------------------------
+ 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Contact info:</h3>
@@ -36,6 +32,11 @@
 <h3 align="left">Discord Server</h3>
 <p align="left">
  <a href="https://l7neg.is-a.dev/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Cool Bio Services I Use:</h3>
+<p align="left">
+<a href="https://guns.lol/L7NEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.gif" alt="l7neg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
