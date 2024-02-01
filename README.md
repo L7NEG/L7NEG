@@ -39,7 +39,7 @@
 <h3 align="left">Cool Bio Services I Use:</h3>
 <p align="left">
 <a href="https://guns.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.gif" alt="l7neg" height="30" width="40" /></a>
- <a href="https://bbio.lol/l7neg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/bbbio.lol.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://bbio.lol/l7neg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/bbio.lol.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
