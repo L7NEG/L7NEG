@@ -8,8 +8,6 @@
 
 - 🔭 I’m Dev Of Ultimate Menu Script For Kiddions Modest Menu And YimMenu [Ultimate Menu](https://www.unknowncheats.me/forum/grand-theft-auto-v/565688-1-64-ultimate-unlocker.html)
 
-- 🌱 I’m currently learning **Mod Menus Making**
-
 - 📫 Contact me on discord **@l7neg**
 
 - ⚡ Fun fact **Currently taking control over my life**
