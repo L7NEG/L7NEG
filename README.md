@@ -36,8 +36,8 @@
 
 <h3 align="left">Cool Bio Services I Use:</h3>
 <p align="left">
- <a href="https://guns.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.gif" alt="l7neg" height="30" width="40" /></a>
- <a href="https://ammo.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ammo.lol.gif" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://guns.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.png" alt="l7neg" height="30" width="40" /></a>
+ <a href="https://ammo.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ammo.lol.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://signed.bio/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/signed.bio.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://bbio.lol/l7neg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/bbio.lol.png" alt="l7neg" height="30" width="40" /></a>
 </p>
