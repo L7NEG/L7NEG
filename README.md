@@ -24,7 +24,7 @@
 <h3 align="left">Contact info:</h3>
 <p align="left">
 <a href="https://discord.com/users/669453086418534400" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
-<a href="https://t.me/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/telegram.png" alt="L7NEG" height="30" width="40
+<a href="https://t.me/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/telegram.png" alt="L7NEG" height="30" width="40" /></a>
 <a href="https://www.unknowncheats.me/forum/members/4824332.html" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
 </p>  
 
