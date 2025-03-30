@@ -2,15 +2,15 @@
 <h2  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira%20Code&size=30&pause=1000&center=true&random=false&width=435&lines=Free+Palestine+🇵🇸" alt="ReadMe Typing Vercel Version By L7NEG" /></a></h2>
 <h3  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira%20Code&size=28&pause=1000&center=true&random=false&width=435&lines=Self+Taught+Dev+From+Egypt" alt="ReadMe Typing Vercel Version By L7NEG" /></a></h3>
 
-[![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://dsc.gg/l7neg-)
+[![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://dsc.gg/l7neg)
 
 ![](https://komarev.com/ghpvc/?username=L7NEG&color=blue&style=flat&label=Views)
 
-- 🔭 I’m Dev Of Ultimate Menu Script For Kiddions Modest Menu And YimMenu [Ultimate Menu](https://www.unknowncheats.me/forum/grand-theft-auto-v/565688-1-64-ultimate-unlocker.html)
+- 🔭 I’m Dev Of Ultimate Menu Script For YimMenu GTA V Enhanced [Ultimate Menu](https://github.com/UltimateMenu/UltimateMenu)
 
 - 📫 Contact me on discord **@l7neg**
 
-- ⚡ Fun fact **Currently taking control over my life**
+- ⚡ Fun fact **Currently taking control over my life fr**
 
 # Discord Card
 
@@ -38,7 +38,6 @@
  <a href="https://guns.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://ammo.lol/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ammo.lol.png" alt="l7neg" height="30" width="40" /></a>
  <a href="https://signed.bio/L7NEG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/signed.bio.png" alt="l7neg" height="30" width="40" /></a>
- <a href="https://bbio.lol/l7neg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/bbio.lol.png" alt="l7neg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
