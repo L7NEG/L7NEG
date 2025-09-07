@@ -26,7 +26,13 @@
 ## Discord Card
 <div align="center">
  <a href="https://rpcrm.vercel.app" target="_blank" rel="nofollow">
-    <img src="https://rpcrm.vercel.app/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence Card" align="center">
+    <img src="https://rpcrm.vercel.app/api/669453086418534400?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence Card Using lanyard.rest but hosted on https://dsc.gg/l7neg Discord Server" align="center">
+ </a>
+</div>
+
+<div align="center">
+ <a href="https://rpcapi.l7neg.uk.to" target="_blank" rel="nofollow">
+    <img src="https://rpcapi.l7neg.uk.to/api/v1/users/669453086418534400?svg=1" alt="Discord Presence Card Using lantern.rest but hosted on https://dsc.gg/l7neg Discord Server" align="center">
  </a>
 </div>
 
