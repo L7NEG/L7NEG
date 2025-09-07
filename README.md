@@ -26,6 +26,8 @@
 ## Discord Card
 
 ![Discord Presence Card Using lantern.rest but hosted on https://dsc.gg/l7neg Discord Server](https://rpcapi.l7neg.uk.to/api/v1/users/669453086418534400?svg=1) 
+
+Discord Card Using lantern.rest but its hosted on my Discord Server so Join to get yours or you can join lantern.rest discord server as he is the one behind this g work
 ---
 
 <details>
