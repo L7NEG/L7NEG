@@ -14,28 +14,27 @@
   </a>
 </h3>
 
-[![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://dsc.gg/l7neg)
+[![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://dc.gg/l7neg)
 ![](https://komarev.com/ghpvc/?username=L7NEG&color=blue&style=flat&label=Views)
 
-- 🔭 I’m Dev Of Ultimate Menu Script For YimMenu GTA V Enhanced [Ultimate Menu](https://github.com/UltimateMenu/UltimateMenu)  
-- 📫 Contact me on discord **@l7neg**  
-- ⚡ Fun fact **Currently taking control over my life fr**
+- 🔭 Dev/Owner Of [Ultimate Menu](https://github.com/UltimateMenu/UltimateMenu) & [ElinaBot](https://elinabot.vercel.app) & [Elinayard](https://elinayard.vercel.app)
+- ⚡ Fun fact **Currently taking control over my life fr 🐐**
 
 ---
 
-## Discord Card
+# Discord Card
 
-<details>
-<summary><strong>Discord Card Info</strong></summary>
+<details open>
+<summary><h2><strong>Discord Card Info</strong></h2></summary>
 
-Discord Card is Using lantern.rest but its hosted on my Discord Server so Join to get yours or you can join lantern.rest discord server as he is the one behind this g work
+Discord Card is Rendered Using [lantern.rest](https://lantern.rest) by @skyhancloud [source code](https://github.com/discordplace/lantern) but its hosted on my [Discord Server](https://dc.gg/l7neg) so you are free to Join to get yours or you can join [lantern.rest discord server here](https://invite.lantern.rest) 🐐. /⚡ Fun fact he is also owner of [discord.place](https://discord.place) [source code](https://github.com/discordplace/discord.place) 🐐.
 </details>
 
 ![Discord Presence Card Using lantern.rest but hosted on https://dsc.gg/l7neg Discord Server](https://rpcapi.l7neg.uk.to/api/v1/users/669453086418534400?svg=1) 
 ---
 
-<details>
-<summary><strong>📞 Contact Info</strong></summary>
+<details open>
+<summary><h2><strong>📞 Contact Info</strong></h2></summary>
 
 <p align="left">
 <a href="https://discord.com/users/669453086418534400" target="_blank">
@@ -51,8 +50,8 @@ Discord Card is Using lantern.rest but its hosted on my Discord Server so Join t
 
 </details>
 
-<details>
-<summary><strong>💬 Join My Discord Server</strong></summary>
+<details open>
+<summary open><h2><strong>💬 Join My Discord Server</strong></h2></summary>
 
 <p align="left">
  <a href="https://l7neg.is-a.dev/discord" target="_blank">
@@ -62,8 +61,8 @@ Discord Card is Using lantern.rest but its hosted on my Discord Server so Join t
 
 </details>
 
-<details>
-<summary><strong>🧰 Cool Bio Services I Use</strong></summary>
+<details open>
+<summary><h2><strong>🧰 Cool Bio Services I Use</strong></h2></summary>
 
 <p align="left">
  <a href="https://guns.lol/L7NEG" target="_blank">
@@ -73,8 +72,8 @@ Discord Card is Using lantern.rest but its hosted on my Discord Server so Join t
 
 </details>
 
-<details>
-<summary><strong>🛠️ Languages and Tools</strong></summary>
+<details open>
+<summary><h2><strong>🛠️ Languages and Tools</strong></h2></summary>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
@@ -108,17 +107,11 @@ Discord Card is Using lantern.rest but its hosted on my Discord Server so Join t
 
 </details>
 
-<details>
-<summary><strong>📊 GitHub Stats</strong></summary>
-
-<p>
-  <img align="center" src="https://l7negstats.vercel.app/api/top-langs?username=l7neg&show_icons=true&locale=en&layout=compact&theme=transparent" alt="l7neg" />
-</p>
-
-![Github Readme Stats](https://l7negstats.vercel.app/api?username=l7neg&show_icons=true&theme=transparent)
-
-![Github Streak Stats](https://ghrmss.vercel.app?user=L7NEG&theme=github-dark-blue)
+<details open>
+<summary><h2><strong>📊 GitHub Stats</strong></h2></summary>
 
 ![GitHub Stats Card](https://ghrsc.vercel.app/api?username=L7NEG&cc=000&tc=fff&ic=fff&bc=000)
+
+![Github Streak Stats](https://ghrmss.vercel.app?user=L7NEG&theme=github-dark-blue)
 
 </details>
