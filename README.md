@@ -30,7 +30,11 @@
 Discord Card is Rendered Using [lantern.rest](https://lantern.rest) by @skyhancloud [source code](https://github.com/discordplace/lantern) but its hosted on my [Discord Server](https://dc.gg/l7neg) so you are free to Join to get yours or you can join [lantern.rest discord server here](https://invite.lantern.rest) 🐐. /⚡ Fun fact he is also owner of [discord.place](https://discord.place) [source code](https://github.com/discordplace/discord.place) 🐐.
 </details>
 
-![Discord Presence Card Using lantern.rest but hosted on https://dsc.gg/l7neg Discord Server](https://rpcapi.l7neg.uk.to/api/v1/users/669453086418534400?svg=1) 
+![](https://rpcapi.l7neg.uk.to/api/v1/users/669453086418534400?svg=1) 
+
+this one below is using custom lanyard profile readme 👇
+
+[![](https://rpcrm.vercel.app/api/669453086418534400)](https://rpcrm.vercel.app)
 ---
 
 <details open>
