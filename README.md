@@ -24,11 +24,6 @@
 
 # Discord Card
 
-<details open>
-<summary><h2><strong>Discord Card Info</strong></h2></summary>
-
-</details>
-
 [![](https://rpcrm.vercel.app/api/669453086418534400)](https://rpcrm.vercel.app)
 ---
 
