@@ -1,18 +1,8 @@
 <h1 align="center">
   <a href="https://ghrmt.vercel.app">
-    <img src="https://ghrmt.vercel.app?font=Fira%20Code&size=30&pause=1000&center=true&random=false&width=435&lines=L7NEG" alt="ReadMe Typing Vercel Version By L7NEG" />
+    <img src="https://ghrmt.vercel.app?font=MedievalSharp&pause=1000&color=0036FF&center=true&vCenter=true&width=435&lines=L7NEG;Free+Palestine+%F0%9F%87%B5%F0%9F%87%B8" alt="ReadMe Typing Vercel Version By L7NEG" />
   </a>
 </h1>
-<h2 align="center">
-  <a href="https://ghrmt.vercel.app">
-    <img src="https://ghrmt.vercel.app?font=Fira%20Code&size=30&pause=1000&center=true&random=false&width=435&lines=Free+Palestine+🇵🇸" alt="ReadMe Typing Vercel Version By L7NEG" />
-  </a>
-</h2>
-<h3 align="center">
-  <a href="https://ghrmt.vercel.app">
-    <img src="https://ghrmt.vercel.app?font=Fira%20Code&size=28&pause=1000&center=true&random=false&width=435&lines=Self+Taught+Dev+From+Egypt" alt="ReadMe Typing Vercel Version By L7NEG" />
-  </a>
-</h3>
 
 [![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://dc.gg/l7neg)
 ![](https://komarev.com/ghpvc/?username=L7NEG&color=blue&style=flat&label=Views)
@@ -62,16 +52,22 @@
  <a href="https://guns.lol/L7NEG" target="_blank">
    <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.png" alt="guns.lol" height="30" width="40" />
  </a>
+ <a href="https://12am.lol/L7NEG" target="_blank">
+   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/12am.png" alt="guns.lol" height="30" width="40" />
+ </a>
+ <a href="https://ozel.im/L7NEG" target="_blank">
+   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ozel.im.png" alt="guns.lol" height="30" width="40" />
+ </a>
 </p>
 
 </details>
 
 <details open>
-<summary><h2><strong>🛠️ Languages and Tools</strong></h2></summary>
+<summary><h2><strong>🛠️ Languages and Tools I Use</strong></h2></summary>
 
 <p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://www.lua.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -81,9 +77,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
