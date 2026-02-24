@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://ghrmt.vercel.app">
-    <img src="https://ghrmt.vercel.app?font=MedievalSharp&pause=1000&color=0036FF&center=true&vCenter=true&width=435&lines=L7NEG;Free+Palestine+%F0%9F%87%B5%F0%9F%87%B8" alt="ReadMe Typing Vercel Version By L7NEG" />
+    <img src="https://ghrmt.vercel.app/?font=MedievalSharp&pause=1000&color=0036FF&center=true&width=435&lines=L7NEG;Free+Palestine+%F0%9F%87%B5%F0%9F%87%B8" alt="ReadMe Typing Vercel Version By L7NEG" />
   </a>
 </h1>
 
@@ -52,11 +52,11 @@
  <a href="https://guns.lol/L7NEG" target="_blank">
    <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.png" alt="guns.lol" height="30" width="40" />
  </a>
- <a href="https://12am.lol/L7NEG" target="_blank">
-   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/12am.png" alt="guns.lol" height="30" width="40" />
+  <a href="https://ozel.im/L7NEG" target="_blank">
+   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ozel.im.png" alt="ozel.im.lol" height="32" width="32" />
  </a>
- <a href="https://ozel.im/L7NEG" target="_blank">
-   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ozel.im.png" alt="guns.lol" height="30" width="40" />
+ <a href="https://12am.lol/L7NEG" target="_blank">
+   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/12am.png" alt="12am.lol" height="30" width="40" />
  </a>
 </p>
 
