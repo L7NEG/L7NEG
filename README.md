@@ -56,7 +56,7 @@
    <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/ozel.im.png" alt="ozel.im.lol" height="32" width="32" />
  </a>
  <a href="https://12am.lol/L7NEG" target="_blank">
-   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/12am.png" alt="12am.lol" height="30" width="40" />
+   <img src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/12am.lol.png" alt="12am.lol" height="30" width="40" />
  </a>
 </p>
 
