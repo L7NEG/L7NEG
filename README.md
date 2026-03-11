@@ -14,7 +14,7 @@
 
 # Discord Card
 
-[![](https://rpcrm.netlify.app/api/669453086418534400)](https://rpcrm.vercel.app)
+[![](https://rpcrm.vercel.app/api/669453086418534400?waveColor=transparent&waveSpotifyColor=transparent&animatedDecoration=true&showDisplayName=true&hideNameplate=false&hideSpotify=false)](https://rpcrm.vercel.app)
 ---
 
 <details open>
