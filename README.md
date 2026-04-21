@@ -16,13 +16,3 @@
 
 [![](https://rpcrm.vercel.app/api/669453086418534400?waveColor=transparent&waveSpotifyColor=transparent&animatedDecoration=true&showDisplayName=true&hideNameplate=false&hideSpotify=false&gradient=FFFFFF)](https://rpcrm.vercel.app)
 ---
-
-
-<details open>
-<summary><h2><strong>📊 GitHub Stats</strong></h2></summary>
-
-![GitHub Stats Card](https://ghrsc.vercel.app/api?username=L7NEG&cc=000&tc=fff&ic=fff&bc=000)
-
-![Github Streak Stats](https://ghrmss.vercel.app?user=L7NEG&theme=github-dark-blue)
-
-</details>
