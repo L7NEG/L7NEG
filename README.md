@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-[![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://dc.gg/l7neg)
+[![](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community&logo=discord&logoColor=fff&style=flat-square)](https://dc.gg/l7neg)
 ![](https://komarev.com/ghpvc/?username=L7NEG&color=blue&style=flat&label=Views)
 
 - 🔭 Dev/Owner Of [Ultimate Menu](https://ultimatemenu.github.io) & [ElinaBot](https://elinabot.vercel.app) & [Elinayard](https://elinayard.vercel.app)
